@@ -13,3 +13,5 @@ En el código, se crea una función escrita en Javascript en donde se le pasa el
 ## Cómo ejecutar el código
 
 Para ejecutar el código, debes usar el comando de: node christmasTree.js
+
+![image](https://github.com/eduardovisa/christmasTree/assets/71092451/ca50936c-e349-4ed0-951f-013c01f36b4b)
